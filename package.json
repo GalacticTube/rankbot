@@ -1,0 +1,14 @@
+{
+  "name": "rankbot",
+  "version": "1.0.0",
+  "description": "Normal rankbot by NJ3ZNAY0MY",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "NJ3ZNAY0MY",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
